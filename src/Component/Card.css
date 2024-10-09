@@ -1,0 +1,12 @@
+.card-title{
+    font-family: sans-serif;
+    font-weight: 900;
+}
+
+.redirect-link{
+    cursor: pointer;
+}
+
+.redirect-link:hover{
+    text-decoration-line: underline;
+}

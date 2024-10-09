@@ -1,0 +1,17 @@
+.profile-text{
+    color: #7d7a7a;
+    letter-spacing:0.3px;
+    font-size: 20px;
+}
+.profile-pic{
+    max-width: 445px;
+    max-height: 445px;
+    border-radius: 15px;
+}
+.info-list{
+    padding-left: 0;
+    list-style: none;
+}
+.info-list strong{
+    width: 30%;
+}
